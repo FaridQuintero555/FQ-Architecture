@@ -1,0 +1,89 @@
+.navbar {
+  box-shadow: 2px 2px 5px grey;
+  opacity: 0.8;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+header{
+  margin-top: 70px;
+}
+
+#Sketch {
+  background: #f1f1f1;
+  padding-top: 5px;
+}
+
+#Sketch2 {
+  background: #f1f1f1;
+  padding-bottom: 20px;
+}
+
+#Fotografia2 {
+
+  padding-bottom: 20px;
+}
+
+footer{
+  background: grey;
+  padding: 0 0 0 0;
+}
+
+#Sobremi{
+  background: black;
+  margin-top: 20px;
+  padding-top: 20px;
+
+}
+
+#Analisis{
+  background: #f1f1f1;
+  margin-top: 20px;
+}
+
+#Titulo {
+  background: #f1f1f1:
+}
+
+#parque {
+  background-color: #f1f1f1;
+}
+
+#Plancha {
+ box-shadow: 10px 10px 10px grey;
+}
+
+.Plantas {
+  background-color: #f1f1f1;
+  padding: 5px;
+}
+
+.inner{
+    overflow: hidden;
+}
+
+.inner img{
+    transition: all 1.5s ease;
+}
+
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+.flechaleft {
+    margin-top: 25%;
+    margin-right: 96%;
+    margin-left: 2%;
+    margin-bottom: auto;
+    opacity: 0.2;
+}
+
+.flecharight {
+    margin-top: 25%;
+    margin-right: 2%;
+    margin-left: 96%;
+    margin-bottom: auto;
+    opacity: 0.2;
+}
